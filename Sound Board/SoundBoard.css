@@ -1,0 +1,11 @@
+button {
+    border-radius: 20px;
+    background-color: whitesmoke;
+    font-size: 40px;
+    font-family: roboto;
+}
+
+div {
+    -ms-flex-line-pack: center;
+    text-align: center;
+}
